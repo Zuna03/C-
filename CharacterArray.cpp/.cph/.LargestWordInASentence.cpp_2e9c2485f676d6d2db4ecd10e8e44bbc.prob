@@ -1,0 +1,1 @@
+{"name":"Local: LargestWordInASentence","url":"c:\\Users\\KIIT\\Documents\\C++\\CharacterArray.cpp\\LargestWordInASentence.cpp","tests":[{"id":1617884233533,"input":"10\ndo or die","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\C++\\CharacterArray.cpp\\LargestWordInASentence.cpp","group":"local","local":true}
